@@ -81,7 +81,7 @@ Reach out to me at...
             alt="Ashada-Shino" width="400"
             media="(prefers-color-scheme: dark)" />
         <source
-            srcset="https://github-readme-stats.vercel.app/api?username=Ashada-Shino&show_icons=true"
+            srcset="https://github-readme-stats.vercel.app/api?username=Ashada-Shino&show_icons=true&theme=buefy"
             alt="Ashada-Shino" width="400"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
         <img src="https://github-readme-stats.vercel.app/api?username=Ashada-Shino&show_icons=true" />
@@ -93,7 +93,7 @@ Reach out to me at...
             alt="Ashada-Shino" width="400"
             media="(prefers-color-scheme: dark)" />
         <source 
-            srcset="https://github-readme-streak-stats.herokuapp.com/?user=Ashada-Shino"
+            srcset="https://github-readme-streak-stats.herokuapp.com/?user=Ashada-Shino&theme=default"
             alt="Ashada-Shino" width="400" 
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
         <img src="https://github-readme-stats.vercel.app/api?username=Ashada-Shino&show_icons=true" />
@@ -106,7 +106,7 @@ Reach out to me at...
             alt="Ashada-Shino" width="350"
             media="(prefers-color-scheme: dark)" />
         <source 
-            srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Ashada-Shino&show_icons=true&locale=en&layout=compact"
+            srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Ashada-Shino&show_icons=true&locale=en&layout=compact&theme=buefy"
             alt="Ashada-Shino" width="350"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
         <img src="https://github-readme-stats.vercel.app/api?username=Ashada-Shino&show_icons=true" />
