@@ -78,11 +78,11 @@ Reach out to me at...
     <picture>
         <source
             srcset="https://github-readme-stats.vercel.app/api?username=Ashada-Shino&show_icons=true&locale=en&theme=tokyonight"
-            alt="Ashada-Shino" width="350"
+            alt="Ashada-Shino" width="400"
             media="(prefers-color-scheme: dark)" />
         <source
             srcset="https://github-readme-stats.vercel.app/api?username=Ashada-Shino&show_icons=true"
-            alt="Ashada-Shino" width="350"
+            alt="Ashada-Shino" width="400"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
         <img src="https://github-readme-stats.vercel.app/api?username=Ashada-Shino&show_icons=true" />
     </picture>
@@ -90,11 +90,11 @@ Reach out to me at...
     <picture>
         <source 
             srcset="https://github-readme-streak-stats.herokuapp.com/?user=Ashada-Shino&theme=tokyonight"
-            alt="Ashada-Shino" width="350"
+            alt="Ashada-Shino" width="400"
             media="(prefers-color-scheme: dark)" />
         <source 
             srcset="https://github-readme-streak-stats.herokuapp.com/?user=Ashada-Shino"
-            alt="Ashada-Shino" width="350" 
+            alt="Ashada-Shino" width="400" 
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
         <img src="https://github-readme-stats.vercel.app/api?username=Ashada-Shino&show_icons=true" />
     </picture>
@@ -103,7 +103,7 @@ Reach out to me at...
     <picture>
         <source
             srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Ashada-Shino&show_icons=true&locale=en&layout=compact&theme=tokyonight"
-            alt="Ashada-Shino" width="300"
+            alt="Ashada-Shino" width="350"
             media="(prefers-color-scheme: dark)" />
         <source 
             srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Ashada-Shino&show_icons=true&locale=en&layout=compact"
