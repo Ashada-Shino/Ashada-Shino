@@ -26,13 +26,13 @@ Reach out to me at...
 <!-- <a href="https://twitter.com"> -->
 <img align="left" alt="Ashada Twitter" width="22px"
     src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<!-- </a><a href="https://www.linkedin.com"> -->
-<img align="left" alt="Ashada Linkdein" width="22px"
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a><a href="https://t.me/WildanNisa23">
+<img align="left" alt="Ashada Telegram" width="22px"
+    src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/telegram.svg" />
 <!-- </a><a href="https://instagram.com"> -->
 <img align="left" alt="Ashada Instagram" width="22px"
     src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-<!-- </a><a href="https://www.facebook.com"> -->
+    </a><a href="https://www.facebook.com/Wildannisa23">
 <img align="left" alt="Ashada Facebook" width="22px"
     src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
