@@ -6,7 +6,7 @@
 
 Just an ordinary computer science college student that is confused with the purpose of life and always overthinking at
 night.
-I'm currently learning Backend,
+I'm currently learning Front End,
 and my deep interest is in the field of Web Development.
 
 #### " When I writes code, only 2 people who know how it works, it's me and God "
