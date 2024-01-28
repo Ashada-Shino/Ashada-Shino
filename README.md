@@ -1,7 +1,7 @@
 ## Hey there, I'm [Ashada Shino !](https://github.com/Ashada-Shino) 👋 <a align="left"><img src="https://komarev.com/ghpvc/?username=Ashada-Shino&label=Views&color=blue&style=flat&logo=appveyor" alt="Ashada-Shino" /></a>
 
 <img align="right" alt="GIF"
-    src="https://user-images.githubusercontent.com/90718856/198833435-d8d71faa-2d13-4fe9-8572-96847743ecda.gif?raw=true"
+    src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"
     width="450" height="320" />
 
 Just an ordinary computer science college student that is confused with the purpose of life and always overthinking at
